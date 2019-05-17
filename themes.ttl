@@ -13,7 +13,7 @@ theme:9c24c16e-4d84-413d-93f8-6498f8c93ad5 a ext:ThemaCode ;
 
 theme:34a58abe-8963-4f4f-af56-d956468af1ed a ext:ThemaCode ;
   mu:uuid "34a58abe-8963-4f4f-af56-d956468af1ed" ;
-  skos:prefLabel "Belastingen "@nl .
+  skos:prefLabel "Belastingen"@nl .
 
 theme:6a98c15c-f163-4d7e-97d9-0a30d90a9b6f a ext:ThemaCode ;
   mu:uuid "6a98c15c-f163-4d7e-97d9-0a30d90a9b6f" ;
@@ -81,7 +81,7 @@ theme:3b064f88-d8fd-4a22-9000-5c8d0a4475f3 a ext:ThemaCode ;
 
 theme:b4a3a4cd-81fb-4298-8c50-cb5b75d3fc4a a ext:ThemaCode ;
   mu:uuid "b4a3a4cd-81fb-4298-8c50-cb5b75d3fc4a" ;
-  skos:prefLabel "Internationaal Ondernemen "@nl .
+  skos:prefLabel "Internationaal Ondernemen"@nl .
 
 theme:d389cc49-b443-462e-8b07-a084f5dea82f a ext:ThemaCode ;
   mu:uuid "d389cc49-b443-462e-8b07-a084f5dea82f" ;
