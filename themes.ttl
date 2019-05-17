@@ -9,7 +9,7 @@ theme:b589d7ba-1f26-46a0-9484-857a92fd54ae a ext:ThemaCode ;
 
 theme:9c24c16e-4d84-413d-93f8-6498f8c93ad5 a ext:ThemaCode ;
   mu:uuid "9c24c16e-4d84-413d-93f8-6498f8c93ad5" ;
-  skos:prefLabel "Begroting en financieën"@nl .
+  skos:prefLabel "Begroting en financiën"@nl .
 
 theme:34a58abe-8963-4f4f-af56-d956468af1ed a ext:ThemaCode ;
   mu:uuid "34a58abe-8963-4f4f-af56-d956468af1ed" ;
