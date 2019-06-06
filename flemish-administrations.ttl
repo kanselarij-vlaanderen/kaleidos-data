@@ -12,42 +12,42 @@ bestuursorganen:80d3c11d-cbac-4697-a7ad-927ef72293b7 a besluit:Bestuursorgaan ;
     skos:prefLabel "Regering-Geens I"@nl ;
     mandaat:bindingStart "1981-12-22"^^xsd:date ;
     mandaat:bindingEinde "1985-12-10"^^xsd:date ;
-    mandaat:isTijdspecialisatieVan bestuursorganen:b820fa3f-2397-42c3-916d-3ca15dcf870f.
+    mandaat:isTijdspecialisatieVan bestuursorganen:b820fa3f-2397-42c3-916d-3ca15dcf870f .
 
 bestuursorganen:4c80a6c7-3e59-4be1-8051-e44fd6664e3c a besluit:Bestuursorgaan ;
     mu:uuid "4c80a6c7-3e59-4be1-8051-e44fd6664e3c" ;
     skos:prefLabel "Regering-Geens II"@nl ;
     mandaat:bindingStart "1985-12-10"^^xsd:date ;
     mandaat:bindingEinde "1988-02-03"^^xsd:date ;
-    mandaat:isTijdspecialisatieVan bestuursorganen:b820fa3f-2397-42c3-916d-3ca15dcf870f.
+    mandaat:isTijdspecialisatieVan bestuursorganen:b820fa3f-2397-42c3-916d-3ca15dcf870f .
 
 bestuursorganen:84eed8fd-af88-432f-b48b-e6b26ad16bac a besluit:Bestuursorgaan ;
     mu:uuid "84eed8fd-af88-432f-b48b-e6b26ad16bac" ;
     skos:prefLabel "Regering-Geens III"@nl ;
     mandaat:bindingStart "1988-02-03"^^xsd:date ;
     mandaat:bindingEinde "1988-10-18"^^xsd:date ;
-    mandaat:isTijdspecialisatieVan bestuursorganen:b820fa3f-2397-42c3-916d-3ca15dcf870f.
+    mandaat:isTijdspecialisatieVan bestuursorganen:b820fa3f-2397-42c3-916d-3ca15dcf870f .
 
 bestuursorganen:98d73e86-69c2-4356-b979-ae1eb7949fc8 a besluit:Bestuursorgaan ;
     mu:uuid "98d73e86-69c2-4356-b979-ae1eb7949fc8" ;
     skos:prefLabel "Regering-Geens IV"@nl ;
     mandaat:bindingStart "1988-10-18"^^xsd:date ;
     mandaat:bindingEinde "1992-01-21"^^xsd:date ;
-    mandaat:isTijdspecialisatieVan bestuursorganen:b820fa3f-2397-42c3-916d-3ca15dcf870f.
+    mandaat:isTijdspecialisatieVan bestuursorganen:b820fa3f-2397-42c3-916d-3ca15dcf870f .
 
 bestuursorganen:ade06181-74fd-44aa-bbcc-c0c7cffc8b1f a besluit:Bestuursorgaan ;
     mu:uuid "ade06181-74fd-44aa-bbcc-c0c7cffc8b1f" ;
     skos:prefLabel "Regering-Van den Brande I"@nl ;
     mandaat:bindingStart "1992-01-21"^^xsd:date ;
     mandaat:bindingEinde "1992-02-05"^^xsd:date ;
-    mandaat:isTijdspecialisatieVan bestuursorganen:b820fa3f-2397-42c3-916d-3ca15dcf870f.
+    mandaat:isTijdspecialisatieVan bestuursorganen:b820fa3f-2397-42c3-916d-3ca15dcf870f .
 
 bestuursorganen:7b02fca1-ce9f-4644-a67d-0fa6c32927c5 a besluit:Bestuursorgaan ;
     mu:uuid "7b02fca1-ce9f-4644-a67d-0fa6c32927c5" ;
     skos:prefLabel "Regering-Van den Brande II"@nl ;
     mandaat:bindingStart "1992-02-05"^^xsd:date ;
     mandaat:bindingEinde "1992-10-20"^^xsd:date ;
-    mandaat:isTijdspecialisatieVan bestuursorganen:b820fa3f-2397-42c3-916d-3ca15dcf870f.
+    mandaat:isTijdspecialisatieVan bestuursorganen:b820fa3f-2397-42c3-916d-3ca15dcf870f .
 
 bestuursorganen:35a6bd0f-508a-4334-894e-3244861a8385 a besluit:Bestuursorgaan ;
     mu:uuid "35a6bd0f-508a-4334-894e-3244861a8385" ;
