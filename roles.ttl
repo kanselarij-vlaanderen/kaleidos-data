@@ -1,0 +1,16 @@
+@prefix rollen: <http://kanselarij.vo.data.gift/id/concept/rollen/> .
+@prefix mu: <http://mu.semte.ch/vocabularies/core/> .
+@prefix org: <http://www.w3.org/ns/org#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+rollen:55572570-d450-42c1-a114-4b4e9ca70105 a org:Role ;
+    mu:uuid "55572570-d450-42c1-a114-4b4e9ca70105" ;
+    skos:prefLabel "minister-president"@nl .
+
+rollen:27076b51-8068-46c0-8534-55c97e26a06e a org:Role ;
+    mu:uuid "27076b51-8068-46c0-8534-55c97e26a06e" ;
+    skos:prefLabel "viceminister-president"@nl .
+
+rollen:df695fdb-60df-48e8-8c23-50852a607d1a a org:Role ;
+    mu:uuid "df695fdb-60df-48e8-8c23-50852a607d1a" ;
+    skos:prefLabel "minister"@nl .
