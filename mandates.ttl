@@ -1,0 +1,269 @@
+@prefix rollen: <http://kanselarij.vo.data.gift/id/concept/rollen/> .
+@prefix mandaten: <http://kanselarij.vo.data.gift/id/mandaten/> .
+@prefix bestuursorganen: <http://kanselarij.vo.data.gift/id/bestuursorganen/> .
+@prefix besluit: <http://data.vlaanderen.be/ns/besluit#> .
+@prefix mandaat: <http://data.vlaanderen.be/ns/mandaat#> .
+@prefix mu: <http://mu.semte.ch/vocabularies/core/> .
+@prefix org: <http://www.w3.org/ns/org#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+# Regering-Geens I
+mandaten:4f2470ec-8870-11e9-8d87-9cb6d01298a1 a mandaat:Mandaat ;
+  mu:uuid "4f2470ec-8870-11e9-8d87-9cb6d01298a1" ;
+  mandaat:aantalHouders 1 ;
+  org:role rollen:55572570-d450-42c1-a114-4b4e9ca70105 .
+bestuursorganen:80d3c11d-cbac-4697-a7ad-927ef72293b7 org:hasPost mandaten:4f2470ec-8870-11e9-8d87-9cb6d01298a1 .
+
+mandaten:4f24731c-8870-11e9-8d87-9cb6d01298a1 a mandaat:Mandaat ;
+  mu:uuid "4f24731c-8870-11e9-8d87-9cb6d01298a1" ;
+  mandaat:aantalHouders 1 ;
+  org:role rollen:27076b51-8068-46c0-8534-55c97e26a06e .
+bestuursorganen:80d3c11d-cbac-4697-a7ad-927ef72293b7 org:hasPost mandaten:4f24731c-8870-11e9-8d87-9cb6d01298a1 .
+
+mandaten:4f247470-8870-11e9-8d87-9cb6d01298a1 a mandaat:Mandaat ;
+  mu:uuid "4f247470-8870-11e9-8d87-9cb6d01298a1" ;
+  org:role rollen:df695fdb-60df-48e8-8c23-50852a607d1a .
+bestuursorganen:80d3c11d-cbac-4697-a7ad-927ef72293b7 org:hasPost mandaten:4f247470-8870-11e9-8d87-9cb6d01298a1 .
+
+
+# Regering-Geens II
+mandaten:4f247632-8870-11e9-8d87-9cb6d01298a1 a mandaat:Mandaat ;
+  mu:uuid "4f247632-8870-11e9-8d87-9cb6d01298a1" ;
+  mandaat:aantalHouders 1 ;
+  org:role rollen:55572570-d450-42c1-a114-4b4e9ca70105 .
+bestuursorganen:4c80a6c7-3e59-4be1-8051-e44fd6664e3c org:hasPost mandaten:4f247632-8870-11e9-8d87-9cb6d01298a1 .
+
+mandaten:4f24775e-8870-11e9-8d87-9cb6d01298a1 a mandaat:Mandaat ;
+  mu:uuid "4f24775e-8870-11e9-8d87-9cb6d01298a1" ;
+  mandaat:aantalHouders 1 ;
+  org:role rollen:27076b51-8068-46c0-8534-55c97e26a06e .
+bestuursorganen:4c80a6c7-3e59-4be1-8051-e44fd6664e3c org:hasPost mandaten:4f24775e-8870-11e9-8d87-9cb6d01298a1 .
+
+mandaten:4f247876-8870-11e9-8d87-9cb6d01298a1 a mandaat:Mandaat ;
+  mu:uuid "4f247876-8870-11e9-8d87-9cb6d01298a1" ;
+  org:role rollen:df695fdb-60df-48e8-8c23-50852a607d1a .
+bestuursorganen:4c80a6c7-3e59-4be1-8051-e44fd6664e3c org:hasPost mandaten:4f247876-8870-11e9-8d87-9cb6d01298a1 .
+
+
+# Regering-Geens III
+mandaten:4f2479c0-8870-11e9-8d87-9cb6d01298a1 a mandaat:Mandaat ;
+  mu:uuid "4f2479c0-8870-11e9-8d87-9cb6d01298a1" ;
+  mandaat:aantalHouders 1 ;
+  org:role rollen:55572570-d450-42c1-a114-4b4e9ca70105 .
+bestuursorganen:84eed8fd-af88-432f-b48b-e6b26ad16bac org:hasPost mandaten:4f2479c0-8870-11e9-8d87-9cb6d01298a1 .
+
+mandaten:4f247aec-8870-11e9-8d87-9cb6d01298a1 a mandaat:Mandaat ;
+  mu:uuid "4f247aec-8870-11e9-8d87-9cb6d01298a1" ;
+  mandaat:aantalHouders 1 ;
+  org:role rollen:27076b51-8068-46c0-8534-55c97e26a06e .
+bestuursorganen:84eed8fd-af88-432f-b48b-e6b26ad16bac org:hasPost mandaten:4f247aec-8870-11e9-8d87-9cb6d01298a1 .
+
+mandaten:4f247c04-8870-11e9-8d87-9cb6d01298a1 a mandaat:Mandaat ;
+  mu:uuid "4f247c04-8870-11e9-8d87-9cb6d01298a1" ;
+  org:role rollen:df695fdb-60df-48e8-8c23-50852a607d1a .
+bestuursorganen:84eed8fd-af88-432f-b48b-e6b26ad16bac org:hasPost mandaten:4f247c04-8870-11e9-8d87-9cb6d01298a1 .
+
+
+# Regering-Geens IV
+mandaten:4f247d58-8870-11e9-8d87-9cb6d01298a1 a mandaat:Mandaat ;
+  mu:uuid "4f247d58-8870-11e9-8d87-9cb6d01298a1" ;
+  mandaat:aantalHouders 1 ;
+  org:role rollen:55572570-d450-42c1-a114-4b4e9ca70105 .
+bestuursorganen:98d73e86-69c2-4356-b979-ae1eb7949fc8 org:hasPost mandaten:4f247d58-8870-11e9-8d87-9cb6d01298a1 .
+
+mandaten:4f247e7a-8870-11e9-8d87-9cb6d01298a1 a mandaat:Mandaat ;
+  mu:uuid "4f247e7a-8870-11e9-8d87-9cb6d01298a1" ;
+  mandaat:aantalHouders 1 ;
+  org:role rollen:27076b51-8068-46c0-8534-55c97e26a06e .
+bestuursorganen:98d73e86-69c2-4356-b979-ae1eb7949fc8 org:hasPost mandaten:4f247e7a-8870-11e9-8d87-9cb6d01298a1 .
+
+mandaten:4f247f92-8870-11e9-8d87-9cb6d01298a1 a mandaat:Mandaat ;
+  mu:uuid "4f247f92-8870-11e9-8d87-9cb6d01298a1" ;
+  org:role rollen:df695fdb-60df-48e8-8c23-50852a607d1a .
+bestuursorganen:98d73e86-69c2-4356-b979-ae1eb7949fc8 org:hasPost mandaten:4f247f92-8870-11e9-8d87-9cb6d01298a1 .
+
+
+# Regering-Van den Brande I
+mandaten:4f2480dc-8870-11e9-8d87-9cb6d01298a1 a mandaat:Mandaat ;
+  mu:uuid "4f2480dc-8870-11e9-8d87-9cb6d01298a1" ;
+  mandaat:aantalHouders 1 ;
+  org:role rollen:55572570-d450-42c1-a114-4b4e9ca70105 .
+bestuursorganen:ade06181-74fd-44aa-bbcc-c0c7cffc8b1f org:hasPost mandaten:4f2480dc-8870-11e9-8d87-9cb6d01298a1 .
+
+mandaten:4f2481fe-8870-11e9-8d87-9cb6d01298a1 a mandaat:Mandaat ;
+  mu:uuid "4f2481fe-8870-11e9-8d87-9cb6d01298a1" ;
+  mandaat:aantalHouders 1 ;
+  org:role rollen:27076b51-8068-46c0-8534-55c97e26a06e .
+bestuursorganen:ade06181-74fd-44aa-bbcc-c0c7cffc8b1f org:hasPost mandaten:4f2481fe-8870-11e9-8d87-9cb6d01298a1 .
+
+mandaten:4f24830c-8870-11e9-8d87-9cb6d01298a1 a mandaat:Mandaat ;
+  mu:uuid "4f24830c-8870-11e9-8d87-9cb6d01298a1" ;
+  org:role rollen:df695fdb-60df-48e8-8c23-50852a607d1a .
+bestuursorganen:ade06181-74fd-44aa-bbcc-c0c7cffc8b1f org:hasPost mandaten:4f24830c-8870-11e9-8d87-9cb6d01298a1 .
+
+
+# Regering-Van den Brande II
+mandaten:4f248456-8870-11e9-8d87-9cb6d01298a1 a mandaat:Mandaat ;
+  mu:uuid "4f248456-8870-11e9-8d87-9cb6d01298a1" ;
+  mandaat:aantalHouders 1 ;
+  org:role rollen:55572570-d450-42c1-a114-4b4e9ca70105 .
+bestuursorganen:7b02fca1-ce9f-4644-a67d-0fa6c32927c5 org:hasPost mandaten:4f248456-8870-11e9-8d87-9cb6d01298a1 .
+
+mandaten:4f24856e-8870-11e9-8d87-9cb6d01298a1 a mandaat:Mandaat ;
+  mu:uuid "4f24856e-8870-11e9-8d87-9cb6d01298a1" ;
+  mandaat:aantalHouders 1 ;
+  org:role rollen:27076b51-8068-46c0-8534-55c97e26a06e .
+bestuursorganen:7b02fca1-ce9f-4644-a67d-0fa6c32927c5 org:hasPost mandaten:4f24856e-8870-11e9-8d87-9cb6d01298a1 .
+
+mandaten:4f24867c-8870-11e9-8d87-9cb6d01298a1 a mandaat:Mandaat ;
+  mu:uuid "4f24867c-8870-11e9-8d87-9cb6d01298a1" ;
+  org:role rollen:df695fdb-60df-48e8-8c23-50852a607d1a .
+bestuursorganen:7b02fca1-ce9f-4644-a67d-0fa6c32927c5 org:hasPost mandaten:4f24867c-8870-11e9-8d87-9cb6d01298a1 .
+
+
+# Regering-Van den Brande III
+mandaten:4f2487c6-8870-11e9-8d87-9cb6d01298a1 a mandaat:Mandaat ;
+  mu:uuid "4f2487c6-8870-11e9-8d87-9cb6d01298a1" ;
+  mandaat:aantalHouders 1 ;
+  org:role rollen:55572570-d450-42c1-a114-4b4e9ca70105 .
+bestuursorganen:35a6bd0f-508a-4334-894e-3244861a8385 org:hasPost mandaten:4f2487c6-8870-11e9-8d87-9cb6d01298a1 .
+
+mandaten:4f2488e8-8870-11e9-8d87-9cb6d01298a1 a mandaat:Mandaat ;
+  mu:uuid "4f2488e8-8870-11e9-8d87-9cb6d01298a1" ;
+  mandaat:aantalHouders 1 ;
+  org:role rollen:27076b51-8068-46c0-8534-55c97e26a06e .
+bestuursorganen:35a6bd0f-508a-4334-894e-3244861a8385 org:hasPost mandaten:4f2488e8-8870-11e9-8d87-9cb6d01298a1 .
+
+mandaten:4f248a0a-8870-11e9-8d87-9cb6d01298a1 a mandaat:Mandaat ;
+  mu:uuid "4f248a0a-8870-11e9-8d87-9cb6d01298a1" ;
+  org:role rollen:df695fdb-60df-48e8-8c23-50852a607d1a .
+bestuursorganen:35a6bd0f-508a-4334-894e-3244861a8385 org:hasPost mandaten:4f248a0a-8870-11e9-8d87-9cb6d01298a1 .
+
+
+# Regering-Van den Brande IV
+mandaten:4f248b54-8870-11e9-8d87-9cb6d01298a1 a mandaat:Mandaat ;
+  mu:uuid "4f248b54-8870-11e9-8d87-9cb6d01298a1" ;
+  mandaat:aantalHouders 1 ;
+  org:role rollen:55572570-d450-42c1-a114-4b4e9ca70105 .
+bestuursorganen:3b4203ef-c0fc-4986-9b8f-9777448f566f org:hasPost mandaten:4f248b54-8870-11e9-8d87-9cb6d01298a1 .
+
+mandaten:4f248cda-8870-11e9-8d87-9cb6d01298a1 a mandaat:Mandaat ;
+  mu:uuid "4f248cda-8870-11e9-8d87-9cb6d01298a1" ;
+  mandaat:aantalHouders 1 ;
+  org:role rollen:27076b51-8068-46c0-8534-55c97e26a06e .
+bestuursorganen:3b4203ef-c0fc-4986-9b8f-9777448f566f org:hasPost mandaten:4f248cda-8870-11e9-8d87-9cb6d01298a1 .
+
+mandaten:4f248f64-8870-11e9-8d87-9cb6d01298a1 a mandaat:Mandaat ;
+  mu:uuid "4f248f64-8870-11e9-8d87-9cb6d01298a1" ;
+  org:role rollen:df695fdb-60df-48e8-8c23-50852a607d1a .
+bestuursorganen:3b4203ef-c0fc-4986-9b8f-9777448f566f org:hasPost mandaten:4f248f64-8870-11e9-8d87-9cb6d01298a1 .
+
+
+# Regering-Dewael
+mandaten:4f2491da-8870-11e9-8d87-9cb6d01298a1 a mandaat:Mandaat ;
+  mu:uuid "4f2491da-8870-11e9-8d87-9cb6d01298a1" ;
+  mandaat:aantalHouders 1 ;
+  org:role rollen:55572570-d450-42c1-a114-4b4e9ca70105 .
+bestuursorganen:32f190c4-42f8-42b3-b7b5-c8600b2cc77e org:hasPost mandaten:4f2491da-8870-11e9-8d87-9cb6d01298a1 .
+
+mandaten:4f249392-8870-11e9-8d87-9cb6d01298a1 a mandaat:Mandaat ;
+  mu:uuid "4f249392-8870-11e9-8d87-9cb6d01298a1" ;
+  mandaat:aantalHouders 1 ;
+  org:role rollen:27076b51-8068-46c0-8534-55c97e26a06e .
+bestuursorganen:32f190c4-42f8-42b3-b7b5-c8600b2cc77e org:hasPost mandaten:4f249392-8870-11e9-8d87-9cb6d01298a1 .
+
+mandaten:4f2494be-8870-11e9-8d87-9cb6d01298a1 a mandaat:Mandaat ;
+  mu:uuid "4f2494be-8870-11e9-8d87-9cb6d01298a1" ;
+  org:role rollen:df695fdb-60df-48e8-8c23-50852a607d1a .
+bestuursorganen:32f190c4-42f8-42b3-b7b5-c8600b2cc77e org:hasPost mandaten:4f2494be-8870-11e9-8d87-9cb6d01298a1 .
+
+
+# Regering-Somers
+mandaten:4f249630-8870-11e9-8d87-9cb6d01298a1 a mandaat:Mandaat ;
+  mu:uuid "4f249630-8870-11e9-8d87-9cb6d01298a1" ;
+  mandaat:aantalHouders 1 ;
+  org:role rollen:55572570-d450-42c1-a114-4b4e9ca70105 .
+bestuursorganen:74b0b23a-053b-4273-968c-81da6c15be4e org:hasPost mandaten:4f249630-8870-11e9-8d87-9cb6d01298a1 .
+
+mandaten:4f2497ca-8870-11e9-8d87-9cb6d01298a1 a mandaat:Mandaat ;
+  mu:uuid "4f2497ca-8870-11e9-8d87-9cb6d01298a1" ;
+  mandaat:aantalHouders 1 ;
+  org:role rollen:27076b51-8068-46c0-8534-55c97e26a06e .
+bestuursorganen:74b0b23a-053b-4273-968c-81da6c15be4e org:hasPost mandaten:4f2497ca-8870-11e9-8d87-9cb6d01298a1 .
+
+mandaten:4f24996e-8870-11e9-8d87-9cb6d01298a1 a mandaat:Mandaat ;
+  mu:uuid "4f24996e-8870-11e9-8d87-9cb6d01298a1" ;
+  org:role rollen:df695fdb-60df-48e8-8c23-50852a607d1a .
+bestuursorganen:74b0b23a-053b-4273-968c-81da6c15be4e org:hasPost mandaten:4f24996e-8870-11e9-8d87-9cb6d01298a1 .
+
+
+# Regering-Leterme
+mandaten:4f249e3c-8870-11e9-8d87-9cb6d01298a1 a mandaat:Mandaat ;
+  mu:uuid "4f249e3c-8870-11e9-8d87-9cb6d01298a1" ;
+  mandaat:aantalHouders 1 ;
+  org:role rollen:55572570-d450-42c1-a114-4b4e9ca70105 .
+bestuursorganen:d777966d-34ed-4405-b36f-6865a628b203 org:hasPost mandaten:4f249e3c-8870-11e9-8d87-9cb6d01298a1 .
+
+mandaten:4f249ff4-8870-11e9-8d87-9cb6d01298a1 a mandaat:Mandaat ;
+  mu:uuid "4f249ff4-8870-11e9-8d87-9cb6d01298a1" ;
+  org:role rollen:27076b51-8068-46c0-8534-55c97e26a06e .
+bestuursorganen:d777966d-34ed-4405-b36f-6865a628b203 org:hasPost mandaten:4f249ff4-8870-11e9-8d87-9cb6d01298a1 .
+
+mandaten:4f24a12a-8870-11e9-8d87-9cb6d01298a1 a mandaat:Mandaat ;
+  mu:uuid "4f24a12a-8870-11e9-8d87-9cb6d01298a1" ;
+  org:role rollen:df695fdb-60df-48e8-8c23-50852a607d1a .
+bestuursorganen:d777966d-34ed-4405-b36f-6865a628b203 org:hasPost mandaten:4f24a12a-8870-11e9-8d87-9cb6d01298a1 .
+
+
+# Regering-Peeters I
+mandaten:4f24a292-8870-11e9-8d87-9cb6d01298a1 a mandaat:Mandaat ;
+  mu:uuid "4f24a292-8870-11e9-8d87-9cb6d01298a1" ;
+  mandaat:aantalHouders 1 ;
+  org:role rollen:55572570-d450-42c1-a114-4b4e9ca70105 .
+bestuursorganen:1c19e63b-a1dc-4408-a21c-2bb05e4c399a org:hasPost mandaten:4f24a292-8870-11e9-8d87-9cb6d01298a1 .
+
+mandaten:4f24a3aa-8870-11e9-8d87-9cb6d01298a1 a mandaat:Mandaat ;
+  mu:uuid "4f24a3aa-8870-11e9-8d87-9cb6d01298a1" ;
+  org:role rollen:27076b51-8068-46c0-8534-55c97e26a06e .
+bestuursorganen:1c19e63b-a1dc-4408-a21c-2bb05e4c399a org:hasPost mandaten:4f24a3aa-8870-11e9-8d87-9cb6d01298a1 .
+
+mandaten:4f24a4c2-8870-11e9-8d87-9cb6d01298a1 a mandaat:Mandaat ;
+  mu:uuid "4f24a4c2-8870-11e9-8d87-9cb6d01298a1" ;
+  org:role rollen:df695fdb-60df-48e8-8c23-50852a607d1a .
+bestuursorganen:1c19e63b-a1dc-4408-a21c-2bb05e4c399a org:hasPost mandaten:4f24a4c2-8870-11e9-8d87-9cb6d01298a1 .
+
+
+# Regering-Peeters II
+mandaten:4f24a60c-8870-11e9-8d87-9cb6d01298a1 a mandaat:Mandaat ;
+  mu:uuid "4f24a60c-8870-11e9-8d87-9cb6d01298a1" ;
+  mandaat:aantalHouders 1 ;
+  org:role rollen:55572570-d450-42c1-a114-4b4e9ca70105 .
+bestuursorganen:3a74e981-db6c-4062-acea-7d6a87f39ca7 org:hasPost mandaten:4f24a60c-8870-11e9-8d87-9cb6d01298a1 .
+
+mandaten:4f24a72e-8870-11e9-8d87-9cb6d01298a1 a mandaat:Mandaat ;
+  mu:uuid "4f24a72e-8870-11e9-8d87-9cb6d01298a1" ;
+  org:role rollen:27076b51-8068-46c0-8534-55c97e26a06e .
+bestuursorganen:3a74e981-db6c-4062-acea-7d6a87f39ca7 org:hasPost mandaten:4f24a72e-8870-11e9-8d87-9cb6d01298a1 .
+
+mandaten:4f24a864-8870-11e9-8d87-9cb6d01298a1 a mandaat:Mandaat ;
+  mu:uuid "4f24a864-8870-11e9-8d87-9cb6d01298a1" ;
+  org:role rollen:df695fdb-60df-48e8-8c23-50852a607d1a .
+bestuursorganen:3a74e981-db6c-4062-acea-7d6a87f39ca7 org:hasPost mandaten:4f24a864-8870-11e9-8d87-9cb6d01298a1 .
+
+
+# Regering-Bourgeois
+mandaten:4f24aa62-8870-11e9-8d87-9cb6d01298a1 a mandaat:Mandaat ;
+  mu:uuid "4f24aa62-8870-11e9-8d87-9cb6d01298a1" ;
+  mandaat:aantalHouders 1 ;
+  org:role rollen:55572570-d450-42c1-a114-4b4e9ca70105 .
+bestuursorganen:73ca7234-d8bc-4b17-acab-88f20500f74e org:hasPost mandaten:4f24aa62-8870-11e9-8d87-9cb6d01298a1 .
+
+mandaten:4f24ac06-8870-11e9-8d87-9cb6d01298a1 a mandaat:Mandaat ;
+  mu:uuid "4f24ac06-8870-11e9-8d87-9cb6d01298a1" ;
+  org:role rollen:27076b51-8068-46c0-8534-55c97e26a06e .
+bestuursorganen:73ca7234-d8bc-4b17-acab-88f20500f74e org:hasPost mandaten:4f24ac06-8870-11e9-8d87-9cb6d01298a1 .
+
+mandaten:4f24ada0-8870-11e9-8d87-9cb6d01298a1 a mandaat:Mandaat ;
+  mu:uuid "4f24ada0-8870-11e9-8d87-9cb6d01298a1" ;
+  org:role rollen:df695fdb-60df-48e8-8c23-50852a607d1a .
+bestuursorganen:73ca7234-d8bc-4b17-acab-88f20500f74e org:hasPost mandaten:4f24ada0-8870-11e9-8d87-9cb6d01298a1 .
