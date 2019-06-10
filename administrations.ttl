@@ -33,6 +33,10 @@ bestuursorganen:9bad22a8-4478-48a9-be4b-296f9bb1e523 a besluit:Bestuursorgaan ;
     mu:uuid "9bad22a8-4478-48a9-be4b-296f9bb1e523" ;
     skos:prefLabel "Vlaams Parlement"@nl .
 
+bestuursorganen:124213d1-7627-42ea-8b7b-f18792a6b347 a besluit:Bestuursorgaan ; # Strict gezien een 'Overlegorgaan'
+    mu:uuid "124213d1-7627-42ea-8b7b-f18792a6b347" ;
+    skos:prefLabel "Overlegcomité"@nl .
+
 bestuursorganen:12266ddb-55a4-4437-9a9d-0b6b8c502386 a besluit:Bestuursorgaan ;
     mu:uuid "12266ddb-55a4-4437-9a9d-0b6b8c502386" ;
     skos:prefLabel "Nationale Regering"@nl ;
