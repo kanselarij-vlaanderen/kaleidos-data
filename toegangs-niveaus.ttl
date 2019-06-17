@@ -1,0 +1,20 @@
+@prefix access: <http://kanselarij.vo.data.gift/id/toegangs-niveaus/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix mu: <http://mu.semte.ch/vocabularies/core/> .
+@prefix ext: <http://mu.semte.ch/vocabularies/ext/> .
+
+access:cc6a3a55-6c53-4c9f-804c-440240ff5c46 a ext:ToegangsniveauCode ;
+  mu:uuid "cc6a3a55-6c53-4c9f-804c-440240ff5c46" ;
+  skos:prefLabel "Intern kabinet" .
+access:d96a95bd-5a6d-4bc2-9bab-31d4e707f9ec a ext:ToegangsniveauCode ;
+  mu:uuid "d96a95bd-5a6d-4bc2-9bab-31d4e707f9ec" ;
+  skos:prefLabel "Enkel ministerieel" .
+access:d227e8e9-d217-451f-bba4-0776c3100aeb a ext:ToegangsniveauCode ;
+  mu:uuid "d227e8e9-d217-451f-bba4-0776c3100aeb" ;
+  skos:prefLabel "Intern regering" .
+access:9c5630ae-7a73-47e1-9c9b-0db47db6f391 a ext:ToegangsniveauCode ;
+  mu:uuid "9c5630ae-7a73-47e1-9c9b-0db47db6f391" ;
+  skos:prefLabel "Intern overheid" .
+access:86c6b58b-1a5b-487a-9e46-932df2308d6b a ext:ToegangsniveauCode ;
+  mu:uuid "86c6b58b-1a5b-487a-9e46-932df2308d6b" ;
+  skos:prefLabel "Publiek" .
