@@ -190,3 +190,28 @@ theme:5f5b20e0-91cd-44bf-abed-0b713de2ef00 a ext:ThemaCode ;
 theme:becc31c9-ed8b-430f-ad61-9e4f9dd2c1bf a ext:ThemaCode ;
   mu:uuid "becc31c9-ed8b-430f-ad61-9e4f9dd2c1bf" ;
   skos:prefLabel "Zorg"@nl .
+
+theme:67918602-17f3-4d0a-bd35-ecaec6e118f4 a ext:ThemaCode ;
+  mu:uuid "67918602-17f3-4d0a-bd35-ecaec6e118f4" ;
+  skos:prefLabel "binnenlandse aangelegenheden"@nl ;
+  owl:deprecated "true"^^mulit:boolean .
+
+theme:0ebcd8d1-8118-45c1-8c19-cab5f484f2c9 a ext:ThemaCode ;
+  mu:uuid "0ebcd8d1-8118-45c1-8c19-cab5f484f2c9" ;
+  skos:prefLabel "erfgoed"@nl ;
+  owl:deprecated "true"^^mulit:boolean .
+
+theme:4e590f35-4c18-4f1b-a83f-6fed95423d13 a ext:ThemaCode ;
+  mu:uuid "4e590f35-4c18-4f1b-a83f-6fed95423d13" ;
+  skos:prefLabel "haven"@nl ;
+  owl:deprecated "true"^^mulit:boolean .
+
+theme:5f10ae42-1591-445b-8178-4ccc7b385549 a ext:ThemaCode ;
+  mu:uuid "5f10ae42-1591-445b-8178-4ccc7b385549" ;
+  skos:prefLabel "natuurlijke rijkdommen"@nl ;
+  owl:deprecated "true"^^mulit:boolean .
+
+theme:aa10b458-2646-4d8d-bc8b-6b0cb6354161 a ext:ThemaCode ;
+  mu:uuid "aa10b458-2646-4d8d-bc8b-6b0cb6354161" ;
+  skos:prefLabel "overheidsinvesteringen"@nl ;
+  owl:deprecated "true"^^mulit:boolean .
